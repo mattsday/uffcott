@@ -1,0 +1,49 @@
+	h1 {
+		text-align: center;
+		font-family: tahoma,serif;
+		font-size: 1.5em;
+		margin-bottom: 0em;
+	}
+
+	h2 {
+		font-family: tahoma,serif;
+		font-size: 1.2em;
+		margin-top: 0.2em;
+	}
+
+	h2.top {
+		text-align: center;
+	}
+
+	h3 {
+		font-family: tahoma,serif;
+		font-size: 1em;
+		margin-top: 0.2em;
+	}
+
+	p,ul {
+		font-family: tahoma,serif;
+		font-size: 1em;
+	}
+
+	p.copyright {
+		font-size: 0.7em;
+
+	}
+
+	address {
+		text-align: center;
+		font-family: tahoma,serif;
+		font-size: 1em;
+		font-style: normal;
+	}
+
+	img {
+		border: 0em;
+	}
+
+	body {
+		padding: 2em;
+		padding-top: 0em;
+	}
+
